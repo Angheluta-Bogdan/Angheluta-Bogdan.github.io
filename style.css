@@ -1,14 +1,39 @@
-:root {
-    font-size: 16px;
+* {
+    font-size: 10px;
+    padding: 0;
+    margin: 0;
 }
 
 body {
-    margin: 10rem;
-    background-color: #1d1942;
-    color: #fff;
+    background: #6495ED;
+
 }
 
-.city-weather {
-    margin-top: 3rem;
+h2 {
+    font-size: 9rem;
     text-align: center;
+    margin-top: 2rem;
+
+}
+
+.can {
+   margin-left: 5rem;
+ 
+    
+}
+
+.owl {
+    display: inline;
+    padding: 1rem;
+    margin-left: 20rem;
+}
+
+.cerb {
+    margin-left: 5rem;
+}
+
+.owl2 {
+    display: inline;
+    padding: 1rem;
+    margin-left: 20rem;
 }
