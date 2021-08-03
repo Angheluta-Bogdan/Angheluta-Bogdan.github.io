@@ -16,24 +16,9 @@ h2 {
 
 }
 
-.can {
+.can, .owl, .cerb, .owl2 {
    margin-left: 5rem;
  
     
 }
 
-.owl {
-    display: inline;
-    padding: 1rem;
-    margin-left: 20rem;
-}
-
-.cerb {
-    margin-left: 5rem;
-}
-
-.owl2 {
-    display: inline;
-    padding: 1rem;
-    margin-left: 20rem;
-}
