@@ -16,13 +16,10 @@ h2 {
 
 }
 
-.can, .owl, .cerb, .owl2 .wolf2{
-   margin-left: 5rem;
+.can, .owl, .cerb, .owl2, .wolf2 {
+    display:block;
+    text-align: center;
  
     
 }
 
-.wolf2 {
-    margin-left: 5rem;
-    
-}
